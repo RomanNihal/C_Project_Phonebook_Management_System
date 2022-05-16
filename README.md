@@ -1,5 +1,5 @@
 # Phonebook Management System
-# This is a university project of Structure Programming Language Course
+# This is a project for Structure Programming Language Course
 # Features
 1. Login/Register
 2. Dynamic File Handling
